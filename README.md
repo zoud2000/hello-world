@@ -1,2 +1,2 @@
 # hello-world
-First eys on you
+First eye on you
